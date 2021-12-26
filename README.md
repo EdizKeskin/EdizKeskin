@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is @EdizKeskin
 
-- 🌱 I’m currently learning JS and C#. 
-- 📫 How to reach me: https://edizkeskin.xyz/ 
+- 🌱 I’m currently learning React. 
+- 📫 How to reach me: https://edizkeskin.com/ 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdizKeskin)](https://github.com/anuraghazra/github-readme-stats)
