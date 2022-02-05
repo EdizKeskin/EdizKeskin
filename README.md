@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ediz Keskin</h1>
 
 - 🌱 I’m currently learning React. 
 - 📫 How to reach me: https://edizkeskin.com/ 
