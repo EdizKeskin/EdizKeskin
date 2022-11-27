@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ediz Keskin</h1>
 <div align="center">
 🌱 I’m currently learning React. <br/> 
-📫 How to reach me: https://edizkeskin.com/ 
+📫 How to reach me: https://edizkeskin.com.tr/ 
 </div>
 
 <br/> 
