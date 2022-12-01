@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ediz Keskin</h1>
 <div align="center">
-🌱 I’m currently learning React. <br/> 
-📫 How to reach me: https://edizkeskin.com.tr/ 
+
+* 🌍  I'm based in Türkiye
+* 🖥️  See my portfolio at [edizkeskin.com.tr](http://edizkeskin.com.tr)
+* ✉️  You can contact me at [edizkeskin@gmail.com](mailto:edizkeskin@gmail.com)
+* 🧠  I'm learning React
 </div>
 
 <br/> 
