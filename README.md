@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Türkiye
 * 👩‍💻  I'm 17 years old
-* 🖥️  See my portfolio at [edizkeskin.com.tr](http://edizkeskin.com.tr)
+* 🖥️  See my portfolio at [edizkeskin.com.tr](http://edizkeskin.com)
 * ✉️  You can contact me at [edizkeskin@gmail.com](mailto:edizkeskin@gmail.com)
 * 🧠  I'm learning React
 </div>
