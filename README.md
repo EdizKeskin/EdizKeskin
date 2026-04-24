@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Ediz</h1>
-<h3 align="center">Frontend Developer | 42 Student | MIS Undergraduate</h3>
+<h3 align="center">Frontend Developer | 42 | MIS </h3>
 
 <br />
 
